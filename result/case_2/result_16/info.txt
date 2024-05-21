@@ -1,0 +1,10 @@
+code distance		:5
+train dataset size	:10000×4
+test dataset size	:1000×4
+batch size		:100
+epoch			:200
+optimizer		:AdamW
+init lr			:1e-5
+loss function		:MSE
+
+シンドロームとlossを取る手法

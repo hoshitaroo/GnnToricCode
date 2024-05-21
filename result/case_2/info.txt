@@ -1,0 +1,4 @@
+gcn		:8l
+linear		:4l
+
+target		:syndrome

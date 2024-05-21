@@ -1,0 +1,8 @@
+code distance		:5
+train dataset size	:250000×4
+test dataset size	:25000×4
+batch size		:10000
+epoch			:400
+optimizer		:Adadelta
+init lr			:none
+loss function		:BCE
